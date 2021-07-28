@@ -1,6 +1,6 @@
 # ORGANIZZER - CRUD Task Manager
 
-![Desktop e Mobile](https://ibb.co/w0L0mXF)
+
 
 ORGANIZZER é um webapp organizador de tarefas desenvolvido durante meus estudos em JavaScript. É possível criar tarefas, definir um prazo para a sua conclusão (ou não definir prazo nenhum), editar uma tarefa criada anteriormente, marcar como concluída e também, claro, deletar tarefas criadas anteriormente.
 

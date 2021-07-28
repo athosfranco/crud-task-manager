@@ -8,7 +8,7 @@ O usuário também pode organizar a ordem na qual as tarefas são exibidas. O ap
 
 ## In English
 
-ORGANIZZER is a task organizer webapp developed during my studies in JavaScript. You can create tasks, set a deadline for their completion (or set no deadline at all), edit a previously created task, mark it as completed and also, of course, delete previously created tasks.
+ORGANIZZER is a task manager webapp developed during my studies in JavaScript. You can create tasks, set a deadline for their completion (or set no deadline at all), edit a previously created task, mark it as completed and also, of course, delete previously created tasks.
 
 The app is available in two languages ​​(English and Portuguese), in addition to having two color schemes (light and dark/day and night). Setting the language and color scheme is done by the user within the application itself.
 

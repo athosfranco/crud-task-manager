@@ -1,5 +1,7 @@
 # ORGANIZZER - CRUD Task Manager
 
+![Desktop e Mobile](https://github.com/[athosfranco]/[crud-task-manager]/blob/[main]/img.png?raw=true)
+
 ORGANIZZER é um webapp organizador de tarefas desenvolvido durante meus estudos em JavaScript. É possível criar tarefas, definir um prazo para a sua conclusão (ou não definir prazo nenhum), editar uma tarefa criada anteriormente, marcar como concluída e também, claro, deletar tarefas criadas anteriormente.
 
 O app está disponível em dois idiomas (Inglês e Português), além de possuir dois esquemas de clores (claro e escuro/dia e noite). A configuração de idioma e esquema de cores é feita pelo usuário dentro do próprio aplicativo.

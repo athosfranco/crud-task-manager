@@ -402,7 +402,7 @@ function changeToDay() {
   labelRoot.style.setProperty("--secondary", "#0086c3");
   labelRoot.style.setProperty("--text", "#ffffff");
   document.body.style.backgroundColor = `#ffffff`;
-  document.body.style.backgroundImage = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg stroke='%23CCC' stroke-width='0' %3E%3Crect fill='%23F5F5F5' x='-60' y='-60' width='110' height='240'/%3E%3C/g%3E%3C/svg%3E")`;
+  //document.body.style.backgroundImage = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg stroke='%23CCC' stroke-width='0' %3E%3Crect fill='%23F5F5F5' x='-60' y='-60' width='110' height='240'/%3E%3C/g%3E%3C/svg%3E")`;
   labelWelcomeText.style.color = "#161616";
   document.getElementById("pending-tasks-number").style.color = "#161616";
   document.getElementById("finished-tasks-number").style.color = "#161616";
@@ -421,7 +421,7 @@ function changeToNight() {
   labelRoot.style.setProperty("--secondary", "#161616");
   labelRoot.style.setProperty("--text", "#EFEFEF");
   document.body.style.backgroundColor = `#020218`;
-  document.body.style.backgroundImage = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg stroke='%23CCC' stroke-width='0' %3E%3Crect fill='%23050b1d' x='-60' y='-60' width='110' height='240'/%3E%3C/g%3E%3C/svg%3E")`;
+  //document.body.style.backgroundImage = `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg stroke='%23CCC' stroke-width='0' %3E%3Crect fill='%23050b1d' x='-60' y='-60' width='110' height='240'/%3E%3C/g%3E%3C/svg%3E")`;
   labelWelcomeText.style.color = "#EFEFEF";
   document.getElementById("pending-tasks-number").style.color = "#EFEFEF";
   document.getElementById("finished-tasks-number").style.color = "#EFEFEF";
